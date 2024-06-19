@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(178, 132, 221);
+    color: black;
+}
+.campoecidade{
+    width: 50%;
+}
+
+.campo{
+    width: 50%;
+}
+.cidade{
+    width: 50%;
+}
+.drone{
+    width: 50%;
+}
